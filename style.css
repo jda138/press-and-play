@@ -75,13 +75,9 @@ nav{
 
 @media (max-width:768px){
 
-.menu{
+.navbar ul{
     flex-direction:column;
     gap:20px;
-}
-
-.menu a{
-    font-size:18px;
 }
 
 }
