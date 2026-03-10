@@ -132,6 +132,14 @@ main ul{
     font-size:15px;
 }
 
+#howto{
+    color:#ff9a00;
+    font-family:'JetBrains Mono';
+    text-align:center;
+    font-size:15px;
+}
+
+
 h2{
     text-align:center;
     font-family:'Orbitron';
@@ -164,3 +172,4 @@ footer{
     font-family:'JetBrains Mono';
     margin-top:50px;
 }
+
