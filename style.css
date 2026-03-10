@@ -89,7 +89,7 @@ nav{
     display:flex;
     gap:25px;
     justify-content:center;
-    flex-wrap:wrap;
+    flex-wrap:wrap; 
 }
 
 .circle-btn{
@@ -99,6 +99,18 @@ nav{
     border-radius:50%;
     border:none;
 }
+
+/* BUTTONS ON TEL */
+
+@media (max-width:768px){
+
+.circle-btn{
+width:50px;
+height:50px;
+}
+
+}
+
 
 /* NOTES */
 
