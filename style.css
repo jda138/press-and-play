@@ -71,6 +71,21 @@ nav{
     text-shadow:0 0 10px #ff9a00;
 }
 
+/* NAVBAR ON TEL */
+
+@media (max-width:768px){
+
+.menu{
+    flex-direction:column;
+    gap:20px;
+}
+
+.menu a{
+    font-size:18px;
+}
+
+}
+
 /* BUTTONS */
 
 .container{
